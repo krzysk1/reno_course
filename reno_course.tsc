@@ -1,0 +1,187 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][object]>
+        <[string8][sname][Reno Air Race course]>
+        <[string8][lname][Reno Air Race course]>
+        <[string8][icao][KRVM]>
+        <[string8][country][us]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-119.881685 39.684192]>
+        <[float64][height][5050]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][-119.87677249 39.664456]>
+        <[float64][tower_height][30]>
+        <[bool][autoheight][true]>
+        <[string8][autoheight_method][]>
+        <[list_tmsimulator_scenery_object][objects][]
+            <[tmsimulator_scenery_object][element][0]
+                <[string8][type][object]>
+                <[string8][geometry][pylon1]>
+                <[vector3_float64][position][-119.876576135528 39.6653027453592 0]>
+                <[float64][orientation][14]>
+                <[int32][autoheight_override][-1]>
+            >
+            <[tmsimulator_scenery_object][element][1]
+                <[string8][type][object]>
+                <[string8][geometry][pylonrgb]>
+                <[vector3_float64][position][-119.897811410145 39.6937615307284 0]>
+                <[float64][orientation][14]>
+                <[int32][autoheight_override][-1]>
+            >
+            <[tmsimulator_scenery_object][element][2]
+                <[string8][type][object]>
+                <[string8][geometry][pylonrgb]>
+                <[vector3_float64][position][-119.865521904368 39.6944808363559 0]>
+                <[float64][orientation][14]>
+                <[int32][autoheight_override][-1]>
+            >
+            <[tmsimulator_scenery_object][element][3]
+                <[string8][type][object]>
+                <[string8][geometry][pylon2]>
+                <[vector3_float64][position][-119.870694668825 39.6655370423665 0]>
+                <[float64][orientation][37]>
+                <[int32][autoheight_override][-1]>
+            >
+            <[tmsimulator_scenery_object][element][4]
+                <[string8][type][object]>
+                <[string8][geometry][pylon2]>
+                <[vector3_float64][position][-119.862639104559 39.6712616059848 0]>
+                <[float64][orientation][35]>
+                <[int32][autoheight_override][-1]>
+            >
+            <[tmsimulator_scenery_object][element][5]
+                <[string8][type][object]>
+                <[string8][geometry][pylon2]>
+                <[vector3_float64][position][-119.860252273846 39.6806574810271 0]>
+                <[float64][orientation][29]>
+                <[int32][autoheight_override][-1]>
+            >
+            <[tmsimulator_scenery_object][element][6]
+                <[string8][type][object]>
+                <[string8][geometry][pylon2]>
+                <[vector3_float64][position][-119.867566519086 39.7013607104061 0]>
+                <[float64][orientation][54]>
+                <[int32][autoheight_override][-1]>
+            >
+            <[tmsimulator_scenery_object][element][7]
+                <[string8][type][object]>
+                <[string8][geometry][pylon2]>
+                <[vector3_float64][position][-119.882813830631 39.7064518937036 0]>
+                <[float64][orientation][53]>
+                <[int32][autoheight_override][-1]>
+            >
+            <[tmsimulator_scenery_object][element][8]
+                <[string8][type][object]>
+                <[string8][geometry][pylon2]>
+                <[vector3_float64][position][-119.896906572795 39.7000080623761 0]>
+                <[float64][orientation][54]>
+                <[int32][autoheight_override][-1]>
+            >
+            <[tmsimulator_scenery_object][element][9]
+                <[string8][type][object]>
+                <[string8][geometry][pylon2]>
+                <[vector3_float64][position][-119.897918250803 39.6747499270811 0]>
+                <[float64][orientation][36]>
+                <[int32][autoheight_override][-1]>
+            >
+            <[tmsimulator_scenery_object][element][10]
+                <[string8][type][object]>
+                <[string8][geometry][pylon2]>
+                <[vector3_float64][position][-119.892846631821 39.6689096205204 0]>
+                <[float64][orientation][33]>
+                <[int32][autoheight_override][-1]>
+            >
+            <[tmsimulator_scenery_object][element][11]
+                <[string8][type][object]>
+                <[string8][geometry][pylon2]>
+                <[vector3_float64][position][-119.886427898371 39.666533907789 0]>
+                <[float64][orientation][13]>
+                <[int32][autoheight_override][-1]>
+            >
+            <[tmsimulator_scenery_object][element][12]
+                <[string8][type][object]>
+                <[string8][geometry][pylonrb]>
+                <[vector3_float64][position][-119.868761825828 39.6649644634154 0]>
+                <[float64][orientation][13]>
+                <[int32][autoheight_override][-1]>
+            >
+            <[tmsimulator_scenery_object][element][13]
+                <[string8][type][object]>
+                <[string8][geometry][pylonrb]>
+                <[vector3_float64][position][-119.865535105991 39.6679408407203 0]>
+                <[float64][orientation][13]>
+                <[int32][autoheight_override][-1]>
+            >
+            <[tmsimulator_scenery_object][element][14]
+                <[string8][type][object]>
+                <[string8][geometry][pylonred]>
+                <[vector3_float64][position][-119.867260979784 39.6715834158642 0]>
+                <[float64][orientation][13]>
+                <[int32][autoheight_override][-1]>
+            >
+            <[tmsimulator_scenery_object][element][15]
+                <[string8][type][object]>
+                <[string8][geometry][pylonred]>
+                <[vector3_float64][position][-119.885656517595 39.6737174553542 0]>
+                <[float64][orientation][13]>
+                <[int32][autoheight_override][-1]>
+            >
+            <[tmsimulator_scenery_object][element][16]
+                <[string8][type][object]>
+                <[string8][geometry][pylonred]>
+                <[vector3_float64][position][-119.889102738887 39.6702964527783 0]>
+                <[float64][orientation][13]>
+                <[int32][autoheight_override][-1]>
+            >
+            <[tmsimulator_scenery_object][element][17]
+                <[string8][type][object]>
+                <[string8][geometry][pylonblue]>
+                <[vector3_float64][position][-119.867261867325 39.6791578578382 0]>
+                <[float64][orientation][13]>
+                <[int32][autoheight_override][-1]>
+            >
+            <[tmsimulator_scenery_object][element][18]
+                <[string8][type][object]>
+                <[string8][geometry][pylonblue]>
+                <[vector3_float64][position][-119.892240432334 39.681255448299 0]>
+                <[float64][orientation][13]>
+                <[int32][autoheight_override][-1]>
+            >
+            <[tmsimulator_scenery_object][element][19]
+                <[string8][type][object]>
+                <[string8][geometry][pylongreen]>
+                <[vector3_float64][position][-119.877351578373 39.6983723311714 0]>
+                <[float64][orientation][13]>
+                <[int32][autoheight_override][-1]>
+            >
+            <[tmsimulator_scenery_object][element][20]
+                <[string8][type][object]>
+                <[string8][geometry][pylongreen]>
+                <[vector3_float64][position][-119.888974660201 39.6976851383336 0]>
+                <[float64][orientation][13]>
+                <[int32][autoheight_override][-1]>
+            >
+            <[tmsimulator_scenery_object][element][21]
+                <[string8][type][object]>
+                <[string8][geometry][pylongreen]>
+                <[vector3_float64][position][-119.89755277617 39.6847232163362 0]>
+                <[float64][orientation][13]>
+                <[int32][autoheight_override][-1]>
+            >
+        >
+        <[list_tmsimulator_scenery_object_animated][objects_animated][]
+        >
+        <[list_tmsimulator_runway][runways][]
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_startposition][start_positions][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+        >
+        <[list_tmsimulator_view_position][view_positions][]
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>
