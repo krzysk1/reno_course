@@ -45,14 +45,14 @@
             <[tmsimulator_scenery_object][element][4]
                 <[string8][type][object]>
                 <[string8][geometry][reno]>
-                <[vector3_float64][position][0 0 0]>
+                <[vector3_float64][position][-119.870964 39.665652 0]>
                 <[float64][orientation][278]>
                 <[int32][autoheight_override][-1]>
             >
             <[tmsimulator_scenery_object][element][5]
                 <[string8][type][object]>
                 <[string8][geometry][reno]>
-                <[vector3_float64][position][0 0 0]>
+                <[vector3_float64][position][-119.862969 39.671328 0]>
                 <[float64][orientation][313]>
                 <[int32][autoheight_override][-1]>
             >
@@ -66,7 +66,7 @@
             <[tmsimulator_scenery_object][element][7]
                 <[string8][type][object]>
                 <[string8][geometry][reno]>
-                <[vector3_float64][position][0 0 0]>
+                <[vector3_float64][position][-119.867611 39.701007 0]>
                 <[float64][orientation][36]>
                 <[int32][autoheight_override][-1]>
             >
@@ -80,7 +80,7 @@
             <[tmsimulator_scenery_object][element][9]
                 <[string8][type][object]>
                 <[string8][geometry][reno]>
-                <[vector3_float64][position][0 0 0]>
+                <[vector3_float64][position][-119.896953 39.699836 0]>
                 <[float64][orientation][143]>
                 <[int32][autoheight_override][-1]>
             >
@@ -94,14 +94,14 @@
             <[tmsimulator_scenery_object][element][11]
                 <[string8][type][object]>
                 <[string8][geometry][reno]>
-                <[vector3_float64][position][0 0 0]>
+                <[vector3_float64][position][-119.892741 39.668901 0]>
                 <[float64][orientation][212]>
                 <[int32][autoheight_override][-1]>
             >
             <[tmsimulator_scenery_object][element][12]
                 <[string8][type][object]>
                 <[string8][geometry][reno]>
-                <[vector3_float64][position][0 0 0]>
+                <[vector3_float64][position][-119.887195 39.666496 0]>
                 <[float64][orientation][225]>
                 <[int32][autoheight_override][-1]>
             >
