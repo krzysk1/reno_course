@@ -59,7 +59,7 @@
             <[tmsimulator_scenery_object][element][6]
                 <[string8][type][object]>
                 <[string8][geometry][reno]>
-                <[vector3_float64][position][0 0 0]>
+                <[vector3_float64][position][-119.860265 39.680648 0]>
                 <[float64][orientation][342]>
                 <[int32][autoheight_override][-1]>
             >
@@ -73,7 +73,7 @@
             <[tmsimulator_scenery_object][element][8]
                 <[string8][type][object]>
                 <[string8][geometry][reno]>
-                <[vector3_float64][position][0 0 0]>
+                <[vector3_float64][position][-119.882707 39.706525 0]>
                 <[float64][orientation][89]>
                 <[int32][autoheight_override][-1]>
             >
@@ -87,7 +87,7 @@
             <[tmsimulator_scenery_object][element][10]
                 <[string8][type][object]>
                 <[string8][geometry][reno]>
-                <[vector3_float64][position][0 0 0]>
+                <[vector3_float64][position][-119.898058 39.674749 0]>
                 <[float64][orientation][179]>
                 <[int32][autoheight_override][-1]>
             >
